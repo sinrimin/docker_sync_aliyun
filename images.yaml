@@ -12,3 +12,4 @@ neosmemo/memos:stable: registry.cn-shanghai.aliyuncs.com/moesrc/memos:stable
 bitnami/kafka:1.1.1: registry.cn-shanghai.aliyuncs.com/moesrc/kafka:1.1.1
 dushixiang/kafka-map:latest: registry.cn-shanghai.aliyuncs.com/moesrc/kafka-map:latest
 bitnami/zookeeper:3.7: registry.cn-shanghai.aliyuncs.com/moesrc/zookeeper:3.7
+docker.n8n.io/n8nio/n8n:latest: registry.cn-shanghai.aliyuncs.com/moesrc/n8n:latest
