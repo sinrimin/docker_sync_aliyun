@@ -9,6 +9,7 @@ milvusdb/milvus:v2.4.17: registry.cn-shanghai.aliyuncs.com/moesrc/milvus:v2.4.17
 zilliz/attu:latest: registry.cn-shanghai.aliyuncs.com/moesrc/attu:latest
 ollama/ollama:latest: registry.cn-shanghai.aliyuncs.com/moesrc/ollama:latest
 neosmemo/memos:stable: registry.cn-shanghai.aliyuncs.com/moesrc/memos:stable
+neosmemo/memos:0.26: registry.cn-shanghai.aliyuncs.com/moesrc/memos:0.26
 bitnami/kafka:1.1.1: registry.cn-shanghai.aliyuncs.com/moesrc/kafka:1.1.1
 dushixiang/kafka-map:latest: registry.cn-shanghai.aliyuncs.com/moesrc/kafka-map:latest
 bitnami/zookeeper:3.7: registry.cn-shanghai.aliyuncs.com/moesrc/zookeeper:3.7
