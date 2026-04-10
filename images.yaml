@@ -1,15 +1,8 @@
-apache/eventmesh:latest: registry.cn-shanghai.aliyuncs.com/moesrc/eventmesh
 apache/rocketmq:5.3.0: registry.cn-shanghai.aliyuncs.com/moesrc/rocketmq
-apache/rocketmq:5.2.0: registry.cn-shanghai.aliyuncs.com/moesrc/rocketmq:5.2.0
 redis:5.0.14: registry.cn-shanghai.aliyuncs.com/moesrc/redis:5.0.14
 oliver006/redis_exporter:v1.66.0: registry.cn-shanghai.aliyuncs.com/moesrc/redis_exporter:v1.66.0
-bitnami/java:21-debian-12: registry.cn-shanghai.aliyuncs.com/moesrc/java:21-debian-12
-minio/minio:RELEASE.2023-03-20T20-16-18Z: registry.cn-shanghai.aliyuncs.com/moesrc/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.4.17: registry.cn-shanghai.aliyuncs.com/moesrc/milvus:v2.4.17
-zilliz/attu:latest: registry.cn-shanghai.aliyuncs.com/moesrc/attu:latest
-ollama/ollama:latest: registry.cn-shanghai.aliyuncs.com/moesrc/ollama:latest
 neosmemo/memos:stable: registry.cn-shanghai.aliyuncs.com/moesrc/memos:stable
-neosmemo/memos:0.26: registry.cn-shanghai.aliyuncs.com/moesrc/memos:0.26
+neosmemo/memos:latest: registry.cn-shanghai.aliyuncs.com/moesrc/memos:latest
 bitnami/kafka:1.1.1: registry.cn-shanghai.aliyuncs.com/moesrc/kafka:1.1.1
 dushixiang/kafka-map:latest: registry.cn-shanghai.aliyuncs.com/moesrc/kafka-map:latest
 bitnami/zookeeper:3.7: registry.cn-shanghai.aliyuncs.com/moesrc/zookeeper:3.7
