@@ -2,7 +2,7 @@ apache/rocketmq:5.3.0: registry.cn-shanghai.aliyuncs.com/moesrc/rocketmq
 redis:5.0.14: registry.cn-shanghai.aliyuncs.com/moesrc/redis:5.0.14
 oliver006/redis_exporter:v1.66.0: registry.cn-shanghai.aliyuncs.com/moesrc/redis_exporter:v1.66.0
 neosmemo/memos:stable: registry.cn-shanghai.aliyuncs.com/moesrc/memos:stable
-neosmemo/memos:latest: registry.cn-shanghai.aliyuncs.com/moesrc/memos:latest
+neosmemo/memos:0.27.0-rc.1: registry.cn-shanghai.aliyuncs.com/moesrc/memos:latest
 bitnami/kafka:1.1.1: registry.cn-shanghai.aliyuncs.com/moesrc/kafka:1.1.1
 dushixiang/kafka-map:latest: registry.cn-shanghai.aliyuncs.com/moesrc/kafka-map:latest
 bitnami/zookeeper:3.7: registry.cn-shanghai.aliyuncs.com/moesrc/zookeeper:3.7
